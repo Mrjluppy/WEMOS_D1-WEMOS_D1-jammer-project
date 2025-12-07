@@ -4,6 +4,9 @@ DIY project on WEMOS_D1
 A simple and clean project built with **Wemos D1 Mini / NodeMCU ESP8266**, focused on Wi-Fi experiments and educational use.  
 Easy to modify, portable, and ready for custom extensions.
 
+ 
+![9bab32375bc2ad62ff73fb8b7f2ae6d00e7d50f9](https://github.com/user-attachments/assets/f6922633-7f8d-4e76-a7c3-9844ca2ead11)
+
 ---
 
 ## 🚀 Features
